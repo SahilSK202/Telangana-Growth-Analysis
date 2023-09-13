@@ -14,19 +14,19 @@ Analyse Telangana’s growth among different sectors quantitatively and provide 
 
 ## 🌟 Data Model:
 
-<img src="https://github.com/SahilSK202/Telangana-Growth-Analysis/tree/main/resources/data_model.png" class="center">
+<img src="https://github.com/SahilSK202/Telangana-Growth-Analysis/blob/main/resources/data_model.png" class="center">
 
 ## Stamp Registrations Insights:
 
-<img src="https://github.com/SahilSK202/Telangana-Growth-Analysis/tree/main/resources/stamp_registrations.png" class="center">
+<img src="https://github.com/SahilSK202/Telangana-Growth-Analysis/blob/main/resources/stamp_registrations.png" class="center">
 
 ## Transportation Insights:
 
-<img src="https://github.com/SahilSK202/Telangana-Growth-Analysis/tree/main/resources/transportation.png" class="center">
+<img src="https://github.com/SahilSK202/Telangana-Growth-Analysis/blob/main/resources/transportation.png" class="center">
 
 ## Ts-Ipass Insights:
 
-<img src="https://github.com/SahilSK202/Telangana-Growth-Analysis/tree/main/resources/ts-ipass.png" class="center">
+<img src="https://github.com/SahilSK202/Telangana-Growth-Analysis/blob/main/resources/ts-ipass.png" class="center">
 
 ## 🌟🔍 **Key Highlights:**
 
