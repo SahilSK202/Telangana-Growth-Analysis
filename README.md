@@ -6,6 +6,8 @@ Telangana is one of the fastest-growing states in India and one of the states wi
 
 Analyse Telangana’s growth among different sectors quantitatively and provide useful Insights to the Telangana government that would help them to make data-informed decisions that would further support the growth of the state.
 
+## 🌟 Solution: Link to full video explanation - https://drive.google.com/file/d/1ZSs7q7Pc-8fc8iM-caSjirBz8wCPOM1d/view
+
 ## 🌟 Solution: Link to canva presentation - https://www.canva.com/design/DAFt71L0wmA/eywKsbAoxYwEcMEtHksjkw/view?utm_content=DAFt71L0wmA
 
 ## 🌟 Let us dive deep into the project & have a look at the data model & all the views which we have created
